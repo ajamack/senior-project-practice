@@ -3,7 +3,7 @@ def main():
     print()
     print("Name: Aja")
     print("Major: Computer Science")
-    print("Technology Interest: Artificial Intelligence in DoD realm")
+    print("Technology Interest: Artificial Intelligence in DoD sector")
     print("Skill Goal: Project development in a team setting")
 
 if __name__ == "__main__":
